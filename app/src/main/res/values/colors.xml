@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tab_dark_title">#333333</color>
+    <color name="index_bg">#f0f1f5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dividColor">#CCCCCC</color>
+    <color name="transparent">#00000000</color>
+    <color name="red">#ff0000</color>
+    <color name="blue">#0fa7e2</color>
+    <color name="blueViolet">#dbf5ff</color>
+    <color name="skyBlue">#87ceeb</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <!-- 蓝紫罗兰 -->
+    <color name="cornflowerBlue">#6495ed</color>
+    <!-- 道奇蓝 -->
+    <color name="dodqerBlue">#1E90FF</color>
+    <color name="black">#333333</color>
+    <!-- 矢车菊兰 -->
+    <color name="lavender">#E6E6FA</color>
+    <color name="btntextcolor">#ff1E90FF</color>
+    <!-- dialog中按钮字体颜色 -->
+    <color name="green">#99cc33</color>
+    <color name="bg_content">#f0f1f5</color>
+    <color name="divide_line">#e6e6e6</color>
+    <color name="txt_title">#252525</color>
+    <color name="txt_content">#666666</color>
+    <color name="txt_discover">#363636</color>
+    <color name="txt_discover_publisher">#999999</color>
+    <color name="ta_bar">#f7f7f8</color>
+    <color name="txt_tab">#797b87</color>
+    <color name="txt_tab_pressed">#dd2e2b</color>
+    <color name="txt_tab_focused">#bd2422</color>
+    <color name="lv_select">#dfdfdf</color>
+    <color name="bind_phone">#FDF9D9</color>
+    <color name="boder_color">#e35d50</color>
+    <color name="index_tab_color">#b50418</color>
+    <color name="edt_pc_find">#ffe3d7</color>
+    <color name="txt_pc_edt_find">#e9361e</color>
+    <color name="txt_wait_shenhe">#ff933b</color>
+    <color name="txt_haved_outline">#b3b3b3</color>
+    <color name="txt_haved_online">#5ec333</color>
+    <color name="txt_refuse">#f16654</color>
+    <color name="mine_msg_bg">#cecece</color>
+    <color name="darkness">#000000</color>
+    <color name="deatail_info">#878787</color>
+    <color name="un_read_num">#e9361e</color>
+</resources>
